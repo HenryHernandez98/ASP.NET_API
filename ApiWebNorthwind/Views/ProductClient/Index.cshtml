@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ApiWebNorthwind.Models.Product>
+
+@{
+    ViewBag.Title = "Consumiendo API";
+}
+
+<h2>Consumiendo API</h2>
+
+<p>
+    @Html.ActionLink("Añadir Productos", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Nombre del producto
+        </th>
+        <th>
+           Supplier ID
+        </th>
+        <th>
+           Categoria
+        </th>
+        <th>
+            Cantidad por unidades
+        </th>
+        <th>
+           Precio por unidad
+        </th>
+        <th>
+           Stock
+        </th>
+        <th>
+          Unidades en orden
+        </th>
+        <th>
+            Nivel de reorden 
+        </th>
+        <th>
+            Descontinuado
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SupplierID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CategoryID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QuantityPerUnit)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitsInStock)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitsOnOrder)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ReorderLevel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Discontinued)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { /*id=item.ProductID */}) |
+           
+            @Html.ActionLink("Borrar", "Delete", new { /*id=item.ProductID */})
+        </td>
+    </tr>
+}
+
+</table>

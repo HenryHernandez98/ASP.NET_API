@@ -1,0 +1,10 @@
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\ConectData.dll.config
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\ConectData.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\ConectData.pdb
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\EntityFramework.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\EntityFramework.xml
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\obj\Release\ConectData.csprojResolveAssemblyReference.cache
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\obj\Release\ConectData.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ConectData\obj\Release\ConectData.pdb

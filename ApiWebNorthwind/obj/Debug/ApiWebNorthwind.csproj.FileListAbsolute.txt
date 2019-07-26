@@ -88,3 +88,8 @@ c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\A
 c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\obj\Debug\ApiWebNorthwind.pdb
 c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\EntityFramework.SqlServer.dll
 c:\users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\EntityFramework.SqlServer.xml
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\System.Net.Http.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\henmo\onedrive\documentos\visual studio 2017\Projects\ApiWebNorthwind\ApiWebNorthwind\bin\System.Security.Cryptography.X509Certificates.dll
